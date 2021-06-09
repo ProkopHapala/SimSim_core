@@ -1,0 +1,7 @@
+add_subdirectory (functions)
+add_subdirectory (geometry)
+add_subdirectory (graphics)
+add_subdirectory (math)
+add_subdirectory (numerics)
+add_subdirectory (optimization)
+add_subdirectory (splines)
